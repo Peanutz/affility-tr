@@ -3,10 +3,10 @@
 ## Assumptions
 
 * Ruby 2.1.x is installed, see `.ruby-version`
-> tip : install chruby, ruby-install and pick the according version
-> tip 2 : you need bundle
+  > tip : install chruby, ruby-install and pick the according version
+  > tip 2 : you need bundle
 * Vagrant 1.6.x is installed
-> tip : don't trust distro sources, download from site
+  > tip : don't trust distro sources, download from site
 * Your main public key is authorized to clone/pull your project Repo
 
 ## Installation and usage
