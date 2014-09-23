@@ -6,7 +6,7 @@
 
   > tip : install chruby, ruby-install and pick the according version
   
-  tip 2 : you need bundle
+  > tip 2 : you need bundle
 * Vagrant 1.6.x is installed
 
   > tip : don't trust distro sources, download from site
