@@ -35,3 +35,4 @@ vagrant ssh
 * is your ssh key authorized on github ? did you load the identity (ssh-add) ?
 * nginx is not started uh-oh
 * the web is backbound to the 8080 port of your localhost. Once nginx is configured and started you should see something here http://127.0.0.1:8080
+* see any bugs? maybe WE did something wrong, let us know
