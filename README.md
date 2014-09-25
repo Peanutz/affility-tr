@@ -13,6 +13,8 @@
 * Vagrant 1.6.x is installed
 
   > tip : don't trust distro sources, download from site
+  
+  > tip 2 : use virtualbox as a provider
 
 * Your main public key is authorized to clone/pull your project Repo
 
